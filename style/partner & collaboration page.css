@@ -1,0 +1,12 @@
+.partner-section {
+  padding: 2rem;
+}
+.partner-section input, .partner-section textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background: #d8ead7;
+  border: none;
+  border-radius: 5px;
+}
